@@ -52,7 +52,7 @@ apple_touch_icon = "<link / abs url>"
 safari_pinned_tab = "<link / abs url>"
 
 [params.label]
-text = "Hi!"
+text = "Wurk Wurk 🧌🔨"
 icon = "/apple-touch-icon.png"
 iconHeight = 35
 
@@ -74,8 +74,8 @@ name = "Tags"
 url = "tags"
 
 [params.homeInfoParams]
-Title = "Welcome \U0001F44B"
-Content = "Let's learn about cool stuff together!"
+Title = "Hi! Welcome \U0001F44B"
+Content = "Let's learn cool tech together :)"
 
 #[[params.socialIcons]]
 #name = "x"

@@ -30,9 +30,10 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 11 Mar 2025 13:56:24 +1000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to my game dev blog! As you can probably tell, this is my first post.&lt;/p&gt;
-&lt;p&gt;The goal is to document my journey as I learn game development. I&amp;rsquo;m excited to see where this takes me.&lt;/p&gt;
-&lt;p&gt;We are going to be writting a fair bit of code here so lets test a code snippet:&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to my dev blog! As you might already tell by the title, this is my first post.&lt;/p&gt;
+&lt;p&gt;The goal is to document dev stuff I think is interesting, and to do so in a way that other&amp;rsquo;s will find useful.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see where things go!&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re going to be writting a fair bit of code here so lets test a code snippet:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Hello, world!&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
