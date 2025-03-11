@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com/"
-title = "ExampleSite"
+baseURL = "https://gennarodev.com/"
+title = "Gennaro's Dev Blog"
 theme = "PaperMod"
 
 [pagination]
@@ -16,9 +16,9 @@ minifyOutput = true
 
 [params]
 env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
-title = "ExampleSite"
-description = "ExampleSite description"
-keywords = ["Blog", "Portfolio", "PaperMod"]
+title = "Gennaro's Dev Blog"
+description = "Coding, tech, and related coll stuff"
+keywords = ["Blog", "Development", "Coding", "Gamedev"]
 author = "Me"
 # author = ["Me", "You"] # multiple authors
 images = ["<link or path of image for opengraph, twitter-cards>"]
@@ -58,7 +58,7 @@ iconHeight = 35
 
 [params.profileMode]
 enabled = false # needs to be explicitly set
-title = "ExampleSite"
+title = "Gennaro's Dev Blog"
 subtitle = "This is subtitle"
 imageUrl = "<img location>"
 imageWidth = 120
@@ -77,13 +77,13 @@ url = "tags"
 Title = "Welcome \U0001F44B"
 Content = "Let's learn about cool stuff together!"
 
-[[params.socialIcons]]
-name = "x"
-url = "https://x.com/"
+#[[params.socialIcons]]
+#name = "x"
+#url = "https://x.com/"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/"
+url = "https://github.com/genzr"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"

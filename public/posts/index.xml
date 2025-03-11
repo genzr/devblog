@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on Gennaro&#39;s Dev Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on Gennaro&#39;s Dev Blog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Gennaro&#39;s Dev Blog</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -32,7 +32,7 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Welcome to my game dev blog! As you can probably tell, this is my first post.&lt;/p&gt;
 &lt;p&gt;The goal is to document my journey as I learn game development. I&amp;rsquo;m excited to see where this takes me.&lt;/p&gt;
-&lt;p&gt;Now to test some code snippets:&lt;/p&gt;
+&lt;p&gt;We are going to be writting a fair bit of code here so lets test a code snippet:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Hello, world!&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
