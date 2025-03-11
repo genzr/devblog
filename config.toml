@@ -75,7 +75,7 @@ url = "tags"
 
 [params.homeInfoParams]
 Title = "Hi! Welcome \U0001F44B"
-Content = "Let's learn cool tech together :)"
+Content = "Let's learn cool stuff together :)"
 
 #[[params.socialIcons]]
 #name = "x"
