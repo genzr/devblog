@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/roll-your-own-debounce-25-03-11/</link>
       <pubDate>Tue, 11 Mar 2025 21:32:15 +1000</pubDate>
       <guid>http://localhost:1313/posts/roll-your-own-debounce-25-03-11/</guid>
-      <description>&lt;p&gt;Debounce is a technique used to ensure that a function is not called more than once in a given time period. This can be useful when dealing with events that fire rapidly, such as scroll or resize events.&lt;/p&gt;
+      <description>&lt;p&gt;Debounce is a technique used to ensure that a function is not called more than once in a given time period. This can be useful when dealing with events that fire rapidly, such as scroll or resize events, or input events that might trigger API calls.&lt;/p&gt;
 &lt;p&gt;Alot of people import 3rd party libraries to handle this, but it&amp;rsquo;s actually quite simple to implement yourself. So, in this post, we&amp;rsquo;ll look at how to roll our own debounce functionality in JavaScript.&lt;/p&gt;</description>
     </item>
     <item>
