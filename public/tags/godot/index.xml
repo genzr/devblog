@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Godot on ExampleSite</title>
+    <link>http://localhost:1313/tags/godot/</link>
+    <description>Recent content in Godot on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Mar 2025 14:45:12 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Click To Move in a 3D Godot 4 Project</title>
+      <link>http://localhost:1313/posts/click-to-move-godot/</link>
+      <pubDate>Tue, 11 Mar 2025 14:45:12 +1000</pubDate>
+      <guid>http://localhost:1313/posts/click-to-move-godot/</guid>
+      <description>&lt;p&gt;Recently I&amp;rsquo;ve been exploring how to go about implementing a click-to-move system in a &lt;strong&gt;3D Godot project&lt;/strong&gt;. This is a common feature in many games, especially in the RPG/RTS genres. In this post, I&amp;rsquo;ll share how I went about implementing this feature in &lt;strong&gt;Godot 4.4&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We are going to a few core concepts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; NavigationRegion3D&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; NavigationAgent3D&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
