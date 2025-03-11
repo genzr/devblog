@@ -142,3 +142,6 @@ noClasses = false
 # lineNos = true
 # style = "monokai"
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-GCCJ6W6JFC'
