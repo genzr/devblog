@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 14:45:12 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 21:32:15 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roll Your Own Debounce</title>
+      <link>http://localhost:1313/posts/roll-your-own-debounce-25-03-11/</link>
+      <pubDate>Tue, 11 Mar 2025 21:32:15 +1000</pubDate>
+      <guid>http://localhost:1313/posts/roll-your-own-debounce-25-03-11/</guid>
+      <description>&lt;p&gt;Debounce is a technique used to ensure that a function is not called more than once in a given time period. This can be useful when dealing with events that fire rapidly, such as scroll or resize events, or input events that might trigger API calls.&lt;/p&gt;
+&lt;p&gt;Alot of people import 3rd party libraries to handle this, but it&amp;rsquo;s actually quite simple to implement yourself. So, in this post, we&amp;rsquo;ll look at how to roll our own debounce functionality in JavaScript.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Click To Move in a 3D Godot 4 Project</title>
       <link>http://localhost:1313/posts/click-to-move-godot/</link>
